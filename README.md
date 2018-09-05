@@ -6,6 +6,18 @@
 
 This is demo code for a control system system used to control a fridge and a refrigerator. It uses the [Accra counter module](https://www.grodansparadis.com/accra/accra.html) and the [Vilnius A/D module](http://www.grodansparadis.com/vilnius/vilnius.html) from [Grodans Paradis AB](https://www.grodansparadis.com). 
 
+Project is described in Grodans Paradis Blog 
+
+  - [Fridge control](http://grodansparadis.com/wordpress/?p=1384)
+  - [Part 1](http://grodansparadis.com/wordpress/?p=2310)
+  - [Part 2](http://grodansparadis.com/wordpress/?p=2324)
+  - [Part 3](http://grodansparadis.com/wordpress/?p=2327)
+  - [Part 4](http://grodansparadis.com/wordpress/?p=2343)
+  - [Variables](http://grodansparadis.com/wordpress/?s=Refrigerator)
+  - [TingSpeak live data](https://thingspeak.com/channels/79008)
+  - [VSCP live measuremenst](https://www.eurosource.se/measurements/index.php)
+  - [VSCP kice gauge](https://www.eurosource.se/measurements/single_gauge.php)
+
 This code is part of the [VSCP project](https://www.vscp.org).
 
 
