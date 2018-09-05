@@ -15,8 +15,8 @@ Project is described in Grodans Paradis Blog
   - [Part 4](http://grodansparadis.com/wordpress/?p=2343)
   - [Variables](http://grodansparadis.com/wordpress/?s=Refrigerator)
   - [TingSpeak live data](https://thingspeak.com/channels/79008)
-  - [VSCP live measuremenst](https://www.eurosource.se/measurements/index.php)
-  - [VSCP kice gauge](https://www.eurosource.se/measurements/single_gauge.php)
+  - [VSCP live measurements](https://www.eurosource.se/measurements/index.php)
+  - [VSCP live gauge](https://www.eurosource.se/measurements/single_gauge.php)
 
 This code is part of the [VSCP project](https://www.vscp.org).
 
